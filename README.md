@@ -171,7 +171,9 @@ To uncover patterns and relationships within the data, such as whether spayed/ne
 ## Conclusion
 This project demonstrates a systematic approach to cleaning, summarizing, and exploring a dataset of lost and found animals. Through **data wrangling**, the dataset was made reliable for analysis. **Descriptive analysis** provided an overview of key metrics, while **exploratory analysis** uncovered deeper trends and relationships. The insights generated can assist stakeholders, such as shelters and local authorities, in improving animal recovery rates and designing more effective intervention strategies.
 
-# Data Wrangling for Prior Learning Assessment and Recognition Policy
+# Prior Learning Assessment and Recognition Policy
+
+# Data Wrangling 
 
 ## Project Description
 This project focuses on extracting, cleaning, and structuring data from the "Prior Learning Assessment and Recognition Policy" PDF document. The objective was to transform the unstructured policy text into a structured and searchable format suitable for analysis and reporting.
