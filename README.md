@@ -173,7 +173,7 @@ This project demonstrates a systematic approach to cleaning, summarizing, and ex
 
 # Prior Learning Assessment and Recognition Policy
 
-# Data Wrangling 
+## Data Wrangling 
 
 ## Project Description
 This project focuses on extracting, cleaning, and structuring data from the "Prior Learning Assessment and Recognition Policy" PDF document. The objective was to transform the unstructured policy text into a structured and searchable format suitable for analysis and reporting.
