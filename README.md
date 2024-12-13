@@ -175,21 +175,21 @@ This project demonstrates a systematic approach to cleaning, summarizing, and ex
 
 ## Data Wrangling 
 
-## Project Description
+### Project Description
 This project focuses on extracting, cleaning, and structuring data from the "Prior Learning Assessment and Recognition Policy" PDF document. The objective was to transform the unstructured policy text into a structured and searchable format suitable for analysis and reporting.
 
-## Project Title
+### Project Title
 **Data Wrangling for Policy Analysis**
 
-## Objective
+### Objective
 To convert unstructured policy text into a high-quality, structured dataset for easier interpretation and use. The goal was to ensure accuracy, completeness, and consistency while maintaining the integrity of the original policy content.
 
-## Dataset
+### Dataset
 The data was extracted from a PDF document and consisted of multiple sections, including policy introduction, details, eligibility criteria, and procedures. Key attributes such as section titles, subsections, descriptions, and examples were identified and structured.
 
 ---
 
-## Methodology
+### Methodology
 
 ### **1. Data Ingestion**
 - Downloaded the PDF document from the official website.
