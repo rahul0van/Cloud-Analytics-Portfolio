@@ -7,12 +7,12 @@ I am an MBA graduate.
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Descriptive and explanatory analysis         | <a href="https://github.com/rahul0van/projects/tree/main">Lost and Found Animal Data Analysis</a>|
-| Descriptive and explanatory analysis           | <a href="https://google.com">Detection Lab</a>|
+| Descriptive and explanatory analysis           | <a href="https://github.com/rahul0van/Prior-Learning-Assessment-and-Recognition-Policy-Analysis">Prior Learning Assessment and Recognition Policy Analysis</a>|
 
 
 ## Projects
 - <a href="https://github.com/rahul0van/projects/tree/main">Lost and Found Animal Data Analysis</a>
-- Detection Lab
+- <a href="https://github.com/rahul0van/Prior-Learning-Assessment-and-Recognition-Policy-Analysis">Prior Learning Assessment and Recognition Policy Analysis</a>
 
 
 
