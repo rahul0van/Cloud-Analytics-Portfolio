@@ -224,7 +224,7 @@ The data was extracted from a PDF document and consisted of multiple sections, i
 
 ---
 
-## Tools and Technologies
+### Tools and Technologies
 - **Data Extraction**: `PyPDF2`, `pdfplumber`
 - **Data Cleaning and Transformation**: Python (`Pandas`, `re`)
 - **Storage and Formats**: CSV, JSON, PDF
@@ -232,14 +232,14 @@ The data was extracted from a PDF document and consisted of multiple sections, i
 
 ---
 
-## Deliverables
+### Deliverables
 - A structured dataset in CSV and JSON formats, ready for analysis.
 - A cleaned and enhanced version of the policy document.
 - Metadata for quick search and categorization.
 
 ---
 
-## Conclusion
+### Conclusion
 This project successfully demonstrated the ability to extract and wrangle unstructured policy data into a usable format. By applying systematic data cleaning and transformation techniques, the project delivered a high-quality dataset that can be leveraged for analysis, reporting, or integration into digital systems. The structured data provides improved accessibility and usability, ensuring better alignment with organizational objectives.
 
 ---
