@@ -11,6 +11,22 @@ A Data Analytic Platform (DAP) is an integrated framework that enables businesse
 ## DAP in AWS
 Amazon Web Services (AWS) offers a comprehensive suite of tools for building robust Data Analytic Platforms. AWS services like Amazon S3 for data storage, AWS Glue for ETL (Extract, Transform, Load) operations, Amazon GlueBrew for profiling and cleaning, and Amazon DynamoDB for database enable end-to-end analytics workflows. With scalability, security, and pay-as-you-go pricing, AWS provides an ideal ecosystem for implementing DAPs tailored to business needs.
 
+## DAP Processes in AWS
+The Data Analytic Platform (DAP) processes in AWS involve several key stages, leveraging AWS services to enable seamless data management and analytics:
+
+- Data Ingestion: Use services like AWS DataSync, Amazon Kinesis, or AWS IoT Core to collect data from diverse sources in real-time or batch mode.
+
+- Data Storage: Store raw and processed data securely in Amazon S3 (data lake) or Amazon RDS/DynamoDB for structured data.
+
+- Data Processing: Transform and prepare data using AWS Glue, Amazon EMR (for big data frameworks like Spark and Hadoop), or AWS Lambda for serverless processing.
+
+- Data Analytics: Analyze data with Amazon Redshift (data warehouse), Amazon Athena (SQL queries on S3), or Amazon SageMaker for advanced machine learning analytics.
+
+- Data Visualization: Present insights using Amazon QuickSight, AWS's scalable business intelligence tool for creating interactive dashboards and reports.
+
+- Monitoring and Optimization: Ensure performance and cost efficiency with tools like Amazon CloudWatch and AWS Cost Explorer.
+
+These integrated processes make AWS a versatile and powerful platform for deploying scalable, efficient, and secure Data Analytic Platforms.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
