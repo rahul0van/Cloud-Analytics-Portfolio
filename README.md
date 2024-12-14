@@ -30,8 +30,8 @@ These integrated processes make AWS a versatile and powerful platform for deploy
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Descriptive and explanatory analysis         | <a href="https://github.com/rahul0van/projects/tree/main">Lost and Found Animal Data Analysis</a>|
-| Descriptive and explanatory analysis           | <a href="https://github.com/rahul0van/Prior-Learning-Assessment-and-Recognition-Policy-Analysis">Prior Learning Assessment and Recognition Policy Analysis</a>|
+| AWS Cloud Architecture, IAM, Amazon S3, AWS Glue, ETL tools, SQL        | <a href="https://github.com/rahul0van/projects/tree/main">Lost and Found Animal Data Analysis</a>|
+| DAWS Cloud Architecture, IAM, Amazon S3, VPC          | <a href="https://github.com/rahul0van/Prior-Learning-Assessment-and-Recognition-Policy-Analysis">Prior Learning Assessment and Recognition Policy Analysis</a>|
 
 
 ## Projects
