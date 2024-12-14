@@ -1,5 +1,5 @@
 # Hello, I'm Rahul Shrestha
-<a href="https://www.linkedin.com/in/priyanka-panjiyar-188943178/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/rahul-shrestha-26182b105/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction]
 I am an MBA graduate. 
