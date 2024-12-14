@@ -5,6 +5,12 @@ My portfolio showcases my ability to design and implement Cloud Data Analytic Pl
 
 <a href="https://www.linkedin.com/in/rahul-shrestha-26182b105/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+## Data Analytic Platform
+A Data Analytic Platform (DAP) is an integrated framework that enables businesses to collect, process, analyze, and visualize large volumes of data. It streamlines the data lifecycle by consolidating diverse tools and technologies, empowering organizations to make data-driven decisions with speed and precision. DAPs are pivotal in uncovering actionable insights, optimizing operations, and enhancing strategic planning.
+
+## DAP in AWS
+Amazon Web Services (AWS) offers a comprehensive suite of tools for building robust Data Analytic Platforms. AWS services like Amazon S3 for data storage, AWS Glue for ETL (Extract, Transform, Load) operations, Amazon GlueBrew for profiling and cleaning, and Amazon DynamoDB for database enable end-to-end analytics workflows. With scalability, security, and pay-as-you-go pricing, AWS provides an ideal ecosystem for implementing DAPs tailored to business needs.
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
