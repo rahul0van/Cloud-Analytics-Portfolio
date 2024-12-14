@@ -28,6 +28,10 @@ The Data Analytic Platform (DAP) processes in AWS involve several key stages, le
 
 These integrated processes make AWS a versatile and powerful platform for deploying scalable, efficient, and secure Data Analytic Platforms.
 
+## DAP Architecture and Pipeline
+![Flowchart](https://github.com/user-attachments/assets/e97f25b6-5c7f-476d-b112-60b4ed8180ef)
+
+
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | AWS Cloud Architecture, IAM, Amazon S3, AWS Glue, ETL tools, SQL        | <a href="https://github.com/rahul0van/projects/tree/main">Lost and Found Animal Data Analysis</a>|
